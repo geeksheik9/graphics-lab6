@@ -1,0 +1,44 @@
+button:hover {
+    box-shadow: gray;
+}
+
+button {
+    min-width: 50px;
+    min-height: 25px;
+    padding: 10px 10px 10px 10px;
+}
+
+textarea {
+    margin-top: 10px;
+}
+
+.button-area {
+    height: 50px;
+}
+
+.red {
+    background-color: red
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
+.purple {
+    background-color: purple;
+    color: white;
+}
+
+.cyan {
+    background-color: cyan;
+}
+
+.draw {
+    background-color: black;
+    color: white;
+}
